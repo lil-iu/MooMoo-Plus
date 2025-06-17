@@ -1,4 +1,4 @@
-# MooMoo-Plus
+# Bruh Utilities
 a moomoo utility userscript under development
 
 
